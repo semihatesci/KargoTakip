@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Classyapisi.abstractkargo">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAQAAAAAAAAACAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstractkargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classyapisi.kargo">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAABAAQAAAAgAAAACAABAAAIAIAsAAAAAAgCAAA=</HashCode>
+      <FileName>kargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classyapisi.personelkalitim">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAhFAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQACAA=</HashCode>
+      <FileName>personelkalitim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classyapisi.personel">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAACAA=</HashCode>
+      <FileName>personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classyapisi.kullanici">
+    <Position X="9.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kullanici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classyapisi.Giris">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Giris.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Classyapisi.Igiris">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Igiris.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

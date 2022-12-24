@@ -1,0 +1,6 @@
+C:\Users\atesci\source\repos\Kargotakip\Classyapisi\bin\Debug\Classyapisi.dll
+C:\Users\atesci\source\repos\Kargotakip\Classyapisi\bin\Debug\Classyapisi.pdb
+C:\Users\atesci\source\repos\Kargotakip\Classyapisi\obj\Debug\Classyapisi.csprojAssemblyReference.cache
+C:\Users\atesci\source\repos\Kargotakip\Classyapisi\obj\Debug\Classyapisi.csproj.CoreCompileInputs.cache
+C:\Users\atesci\source\repos\Kargotakip\Classyapisi\obj\Debug\Classyapisi.dll
+C:\Users\atesci\source\repos\Kargotakip\Classyapisi\obj\Debug\Classyapisi.pdb
